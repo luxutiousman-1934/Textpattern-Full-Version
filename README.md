@@ -240,3 +240,6 @@ This repository serves as the official landing page for Textpattern. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Textpattern today!**
+
+---
+**Last updated:** 2026-09-10 20:12:33 UTC
