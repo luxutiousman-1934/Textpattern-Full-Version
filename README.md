@@ -242,4 +242,4 @@ This repository serves as the official landing page for Textpattern. The softwar
 **Get the most recent version of Textpattern today!**
 
 ---
-**Last updated:** 2026-10-25 14:39:57 UTC
+**Last updated:** 2026-10-25 17:57:34 UTC
